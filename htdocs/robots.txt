@@ -1,0 +1,23 @@
+# ==============================================================================
+# V-RESOLVE: Robots Exclusion Protocol
+# Website: https://v-resolve.kesug.com/
+# ==============================================================================
+
+User-agent: *
+Allow: /
+Allow: /favicon.ico
+Allow: /favicon.svg
+Allow: /favicon-*.png
+Allow: /apple-touch-icon*.png
+Allow: /android-chrome-*.png
+Allow: /mstile-*.png
+Allow: /og-image.png
+Allow: /style.css
+Allow: /app.js
+Allow: /site.webmanifest
+
+# Disallow private backend JSON API routes
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://v-resolve.kesug.com/sitemap.xml
