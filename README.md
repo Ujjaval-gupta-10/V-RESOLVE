@@ -1,4 +1,4 @@
-# 🏨 Hostel Grievance Redressal & SLA Management System
+# 🏨 V-RESOLVE Autonomous Residential Life & SLA Platform
 
 **Course:** CSE2001 - Object Oriented Programming with Java
 **Degree:** B.Tech CSE AI & ML Engineering (2nd Year - 3rd Semester)
